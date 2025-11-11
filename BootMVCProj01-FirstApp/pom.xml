@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.5.7</version>
+		<version>3.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nit</groupId>
-	<artifactId>BootMVCProj01-FirstAppl</artifactId>
+	<artifactId>BootMVCProj01-FirstApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>BootMVCProj01-FirstAppl</name>
+	<name>BootMVCProj01-FirstApp</name>
 	<description>MVC App</description>
 	<url/>
 	<licenses>
@@ -56,5 +56,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
